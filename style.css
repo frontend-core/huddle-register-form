@@ -80,7 +80,8 @@ body {
   text-align: center;
 }
 .attribution a {
-  color: hsl(0, 30%, 95%);
+  color: hsl(253, 90%, 21%);
+  text-decoration: none;
 }
 
 /* @media (min-width: 500px) {
