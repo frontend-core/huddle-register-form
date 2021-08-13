@@ -14,8 +14,12 @@
 
 - 🚀 Frontendmentor: [Perfil](https://www.frontendmentor.io/profile/hugoorlando)
 
-## Resultado
+### Resultado 💻
 
-**Mi solucion**
+- 🚀 **Mi solucion**
 
 ![handdle-landing-page](https://github.com/hugoorlando/huddle-landing-page/blob/main/images/huddle-hugo.png)
+
+- 🚀 **Mi solucion vs Desafio Frontendmentor**
+
+![](https://github.com/hugoorlando/huddle-landing-page/blob/main/images/solucion-hugo.png)
