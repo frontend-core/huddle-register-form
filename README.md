@@ -6,10 +6,10 @@
 
 - 🚀 Stack básico: HTML + CSS
 
-- 🚀 Demo: [Netlify](https://single-price-v1.netlify.app/)
+- 🚀 Demo: [Netlify](https://handdle-landing-page-v1.netlify.app/)
 
 - 🚀 Repo: [GitHub](https://github.com/hugoorlando/huddle-landing-page)
 
-- 🚀 Solucion: [Frontendmentor](https://www.frontendmentor.io/solutions/single-price-grid-component-zdUfU8VGS)
+- 🚀 Solucion: [Frontendmentor](https://www.frontendmentor.io/solutions/huddle-landing-page-with-a-single-introductory-section-00WxPGaFk)
 
 - 🚀 Frontendmentor: [Perfil](https://www.frontendmentor.io/profile/hugoorlando)
